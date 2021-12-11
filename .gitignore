@@ -1,7 +1,6 @@
 *.olean
 /_target
 /leanpkg.path
-/html
 /export.json
 /.vscode
 /.venv
